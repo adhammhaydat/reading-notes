@@ -9,6 +9,8 @@
 | Grouth_mindset   | [Grouth mindset](https://adhammhaydat.github.io/reading-nots/grouth_mindset)   |
 | Markdown         | [Markdown](https://adhammhaydat.github.io/reading-nots/markdoown)  |
 | Wireframe        | [Wireframe](https://adhammhaydat.github.io/reading-nots/wireframe&HTML)  |
+| web site        | [Web site](https://adhammhaydat.github.io/reading-nots/web%20site)  |
+| Operator&loops        | [operator&loops](https://adhammhaydat.github.io/reading-nots/operator&loops)  |
 
 
 
