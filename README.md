@@ -1,5 +1,5 @@
-# reading-nots
-# reading-nots
+# reading-nots 
+## reading-nots about code 101&102
 ### My name is Adham Mhaydat, I was born in Jordan, I am 23 years old and i live in Irbid, I studied software engineering at the Al-Hussein Bin Talal University 
 
 
@@ -11,6 +11,14 @@
 | Wireframe        | [Wireframe](https://adhammhaydat.github.io/reading-nots/wireframe&HTML)  |
 | web site        | [Web site](https://adhammhaydat.github.io/reading-nots/web%20site)  |
 | Operator&loops        | [operator&loops](https://adhammhaydat.github.io/reading-nots/operator&loops)  |
+| CSS        | [CSS](https://adhammhaydat.github.io/reading-nots/css)  |
+
+ ## reading-nots about code 201
+|code 201 content  | Link          |
+| -------------    | ------------- |
+| Grouth_mindset   | [Grouth mindset](https://adhammhaydat.github.io/reading-nots/grouth_mindset)   |
+| Markdown         |
+
 
 
 
