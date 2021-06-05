@@ -81,6 +81,7 @@ the web than others.
 ## Chapter 1: Structure
 
 #### Understanding structure
+<<<<<<< HEAD
 the arrangement of and relations between the parts or elements of something complex.
 
 the browser window you can see a web page that features exactly 
@@ -124,3 +125,8 @@ same time).
 ---------------------------------------------
 ## Chapter 8: Extra Markup
  
+=======
+
+#### Learning about markup
+#### Tags and elements 
+>>>>>>> 6c9eee653640111fc66978be19b6bbbc7c2ef361
