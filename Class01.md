@@ -264,6 +264,7 @@ The <section> element groups
 related content together, and 
 typically each section would 
 have its own heading.
+<<<<<<< HEAD
 * The new HTML5 elements indicate the purpose of 
 different parts of a web page and help to describe 
 its structure.
@@ -333,3 +334,7 @@ greetStudent();
 
 The reference to 'this' changes to the global object, & this can cause unwanted and hard to spot bugs.
 
+=======
+
+## Chapter 18: Process & Design
+>>>>>>> 7cb628fa51d8436a39a7ffa394ec440df8c22638
