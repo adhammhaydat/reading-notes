@@ -13,10 +13,14 @@
 | Operator&loops        | [operator&loops](https://adhammhaydat.github.io/reading-nots/operator&loops)  |
 | CSS        | [CSS](https://adhammhaydat.github.io/reading-nots/css)  |
 
+
  ## reading-nots about code 201
+ 
 |code 201 content  | Link          |
 | -------------    | ------------- |
-| Class   | [class](https://adhammhaydat.github.io/reading-nots/Class01)   |
+| Class01   | [view pag](https://adhammhaydat.github.io/reading-nots/Class01)   |
+| Class-02   | [view page](https://adhammhaydat.github.io/reading-nots/Class-02)   |
+
 
 
 
