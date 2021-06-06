@@ -16,7 +16,7 @@
  ## reading-nots about code 201
 |code 201 content  | Link          |
 | -------------    | ------------- |
-| Class   | [class](https://adhammhaydat.github.io/reading-nots/Class 01)   |
+| Class   | [class](https://adhammhaydat.github.io/reading-nots/Class01)   |
 
 
 
