@@ -122,11 +122,11 @@ on the tab for that page (if your
 browser uses tabs to allow you 
 to view multiple pages at the 
 same time).
+![Tags](https://mason.gmu.edu/~kshiffl4/375/HTML_Tags.jpg)
 ---------------------------------------------
 ## Chapter 8: Extra Markup
- 
-=======
+#### Specifying different versions of HTML
 
-#### Learning about markup
-#### Tags and elements 
->>>>>>> 6c9eee653640111fc66978be19b6bbbc7c2ef361
+#### Identifying and grouping elements
+#### Comments, meta information and iframes
+ 

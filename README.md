@@ -16,8 +16,8 @@
  ## reading-nots about code 201
 |code 201 content  | Link          |
 | -------------    | ------------- |
-| Grouth_mindset   | [Grouth mindset](https://adhammhaydat.github.io/reading-nots/grouth_mindset)   |
-| Markdown         |
+| Class   | [class](https://adhammhaydat.github.io/reading-nots/Class 01)   |
+
 
 
 
