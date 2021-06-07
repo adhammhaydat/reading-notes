@@ -1,7 +1,7 @@
 # HTML & CSS 
- **Design and Build Websites *Jon Ducket* **
+**Design and Build Websites *Jon Ducket* **
 
- ### content:
+### content:
 
 | Chapter          | content         |
 | -------------    | -------------   |
