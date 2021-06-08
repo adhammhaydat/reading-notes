@@ -18,8 +18,9 @@
  
 |code 201 content  | Link          |
 | -------------    | ------------- |
-| Class01   | [view pag](https://adhammhaydat.github.io/reading-nots/Class01)   |
+| Class-01   | [view pag](https://adhammhaydat.github.io/reading-nots/Class01)   |
 | Class-02   | [view page](https://adhammhaydat.github.io/reading-nots/Class-02)   |
+| Class-03   | [view page](https://adhammhaydat.github.io/reading-nots/Class03)   |
 
 
 
