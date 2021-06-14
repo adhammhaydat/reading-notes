@@ -117,4 +117,67 @@ their appearance
 ## Chapter 3: “Functions, Methods, and Objects”
 
 
+**What's the difference between a method and a function?**
 
+A function is a piece of code that is called by name. It can be passed data to operate on (i.e. the parameters) and can optionally return data (the return value). All data that is passed to a function is explicitly passed.
+
+A method is a piece of code that is called by a name that is associated with an object. In most respects it is identical to a function except for two key differences:
+
+1. A method is implicitly passed the object on which it was called.
+2. A method is able to operate on data that is contained within the class (remembering that an object is an instance of a class - the class is the definition, the object is an instance of that data).
+
+### Functions:
+
+Self-contained bits of JS code that allow us to 
+* Organize code 
+* Reuse the same code any number of times, from different 
+
+parts of the script JS supports several types of function. Commonly used types are:
+* Named function declaration
+* Anonymous functions
+
+## JavaScript Objects
+
+JavaScript is an object-based language
+* It supports for object-oriented programming but not at the same level as 
+other languages (ES6: introduced class – still lacks private property)
+
+Objects are represented as property-value pair
+* The property values can be data or functions (methods)
+
+A property is something that can be modified :
+* Data properties : primitive values or references to objects
+* Method properties : can be executed
+
+Objects can be created and their properties can be changed dynamically
+* JS is not really typed .. If it doesn’t care between a number and a string, why 
+care between two kinds of objects? 
+
+**creating object**
+
+![creating](https://th.bing.com/th/id/R6ee17df57934073b9c848b4d8009ce66?rik=O0d%2fA%2bIxyE5N2w&pid=ImgRaw)
+
+**Accessing Objects**
+
+Access properties or methods of an object using dot notation:
+`let hotelName = hotel.name;`
+
+Access properties or methods using square brackets:
+
+`let hotelName = hotel['name'];`
+
+**Updating Properties:**
+
+ `hotel.name='adham';`
+
+**Adding Properties:**
+
+Add a property using a dot notation
+
+`hotel.sute =true;`
+
+**Deleting Properties**
+
+Delete a property using the delete keyword
+
+`delete hotel.name;`

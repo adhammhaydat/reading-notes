@@ -184,11 +184,11 @@ Here are some of the properties
 and methods you can use to work with attributes: `className /id` Lets you get or update the value 
 of the cl ass and id attributes.
 
-`hasAttr i bute()` 
+`hasAttribute()` 
 
 `getAttribute()`
 
-`setAttri bute()`
+`setAttribute()`
 
 `removeAttribute()` 
 The first checks if an attribute 
