@@ -25,6 +25,7 @@
 | Class-05   | [view page](https://adhammhaydat.github.io/reading-nots/class05)   |
 | Class-06   | [view page](https://adhammhaydat.github.io/reading-nots/class06)   |
 | Class-07   | [view page](https://adhammhaydat.github.io/reading-nots/class07)   |
+| Class-0   | [view page](https://adhammhaydat.github.io/reading-nots/class08)   |
 
 
 
