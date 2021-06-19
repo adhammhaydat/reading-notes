@@ -28,7 +28,7 @@
 | Class-08   | [view page](https://adhammhaydat.github.io/reading-nots/class08)   |
 | Class-09   | [view page](https://adhammhaydat.github.io/reading-nots/class09)   |
 | Class-10   | [view page](https://adhammhaydat.github.io/reading-nots/class10)   |
-
+| Class-11   | [view page](https://adhammhaydat.github.io/reading-nots/class11)   |
 
 
 ------------------------------
