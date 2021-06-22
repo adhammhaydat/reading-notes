@@ -30,6 +30,7 @@
 | Class-10   | [view page](https://adhammhaydat.github.io/reading-nots/class10)   |
 | Class-11   | [view page](https://adhammhaydat.github.io/reading-nots/class11)   |
 | Class-12   | [view page](https://adhammhaydat.github.io/reading-nots/class12)   |
+| Class-13   | [view page](https://adhammhaydat.github.io/reading-nots/class13)   |
 
 
 ------------------------------
