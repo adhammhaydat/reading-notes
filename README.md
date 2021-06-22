@@ -31,6 +31,7 @@
 | Class-11   | [view page](https://adhammhaydat.github.io/reading-nots/class11)   |
 | Class-12   | [view page](https://adhammhaydat.github.io/reading-nots/class12)   |
 | Class-13   | [view page](https://adhammhaydat.github.io/reading-nots/class13)   |
+| Class-14-a   | [view page](https://adhammhaydat.github.io/reading-nots/class14-a)   |
 
 
 ------------------------------
