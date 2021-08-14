@@ -48,6 +48,8 @@
 | read-08   | [view page](https://adhammhaydat.github.io/reading-nots/read-08)   |
 | read-09   | [view page](https://adhammhaydat.github.io/reading-nots/read-09)   |
 | read-10   | [view page](https://adhammhaydat.github.io/reading-nots/read-10)   |
+| read-11   | [view page](https://adhammhaydat.github.io/reading-nots/read-11)   |
+
 
 
 
