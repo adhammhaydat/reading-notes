@@ -6,8 +6,15 @@
 ### What kind of data is a good fit for an SQL database?
 If your data is highly structured and associations among the program entities are clearly defined (for instance, if you are developing a point of sale system where you need to store customer orders and product records), conventional SQL based databases are the best fit.
 
+### Give a real world example 
+![](https://i.stack.imgur.com/euNPD.png)
+
 ### What kind of data is a good fit a NoSQL database?
 Semi-structured or Unstructured data / flexible schema
+
+### Give a real world example 
+
+![](https://image.slidesharecdn.com/april131610maprtechnologiesgrall-160425200131/95/realworld-nosql-schema-design-15-638.jpg?cb=1461614505)
 
 ### Which type of database is best for scalability?
 
@@ -16,6 +23,10 @@ First of all, MySQL, MSSQL, Oracle, PostgreSQL, all are highly scalable, it's ju
 ### What does SQL stand for?
 
 `stands for Structured Query Language`
+
+### Which type of database is best for hierarchical data storage?
+Document based database like MongoDB, and Redis are great for small scale, hierarchical data with a relatively small amount of children for each entry.
+
 
 ### What is a realational database?
 
@@ -34,6 +45,10 @@ NoSQL, also referred to as “not only SQL” or “non-SQL,” is an approach t
 
 ### What is inside of a Mongo database?
 MongoDB stores data records as documents (specifically BSON documents) which are gathered together in collections. A database stores one or more collections of documents.
+
+### Howo does it work?
+MongoDB is an object-oriented, simple, dynamic, and scalable NoSQL database. It is based on the NoSQL document store model. The data objects are stored as separate documents inside a collection — instead of storing the data into the columns and rows of a traditional relational database
+
 
 ### Which is more flexible - SQL or MongoDB? and why.
 While MongoDB is more flexible and ensures high and diverse data availability, a SQL Database operates with the ACID (Atomicity, Consistency, Isolation, and Durability) properties and ensures greater reliability of transactions
