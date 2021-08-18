@@ -51,6 +51,7 @@
 | read-11   | [view page](https://adhammhaydat.github.io/reading-nots/read-11)   |
 | read-12   | [view page](https://adhammhaydat.github.io/reading-nots/read-12)   |
 | read-13   | [view page](https://adhammhaydat.github.io/reading-nots/read-13)   |
+| read-14   | [view page](https://adhammhaydat.github.io/reading-nots/read-14)   |
 
 
 
