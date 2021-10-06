@@ -59,6 +59,7 @@
 | code 401 content         | Link                                                                              |
 | ------------------------ | --------------------------------------------------------------------------------- |
 | Practice in the Terminal | [view page](https://adhammhaydat.github.io/reading-nots/Practice_in_the_Terminal) |
+| Your Mindset | [view page](https://adhammhaydat.github.io/reading-nots/Prep_Your_Mindset) |
 
 ---
 
