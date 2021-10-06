@@ -4,6 +4,8 @@
 
 ### My name is Adham Mhaydat, I was born in Jordan, I am 23 years old and i live in Irbid, I studied software engineering at the Al-Hussein Bin Talal University 
 
+## Code 201 - Foundations of Software Development
+
 | Pages          | Link                                                                         |
 | -------------- | ---------------------------------------------------------------------------- |
 | Grouth_mindset | [Grouth mindset](https://adhammhaydat.github.io/reading-nots/grouth_mindset) |
@@ -13,7 +15,7 @@
 | Operator&loops | [operator&loops](https://adhammhaydat.github.io/reading-nots/operator&loops) |
 | CSS            | [CSS](https://adhammhaydat.github.io/reading-nots/css)                       |
 
-## reading-nots about code 201
+## Code 102 - Intro to Software Development
 
 | code 201 content | Link                                                               |
 | ---------------- | ------------------------------------------------------------------ |
@@ -34,7 +36,7 @@
 
 ---
 
-## reading-nots about code 301
+## Code 301 - Intermediate Software Development
 
 | code 201 content | Link                                                             |
 | ---------------- | ---------------------------------------------------------------- |
@@ -53,7 +55,7 @@
 | read-13          | [view page](https://adhammhaydat.github.io/reading-nots/read-13) |
 | read-14          | [view page](https://adhammhaydat.github.io/reading-nots/read-14) |
 
-## reading-nots about code 401 Python
+## Code 401 - Advanced Software Development
 
 
 | code 401 content         | Link                                                                              |
