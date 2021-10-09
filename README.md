@@ -62,6 +62,7 @@
 | ------------------------ | --------------------------------------------------------------------------------- |
 | Practice in the Terminal | [view page](https://adhammhaydat.github.io/reading-nots/Practice_in_the_Terminal) |
 | Your Mindset | [view page](https://adhammhaydat.github.io/reading-nots/Prep_Your_Mindset) |
+| Read:class-01 | [view page](https://adhammhaydat.github.io/reading-nots/read401-01) |
 
 ---
 
