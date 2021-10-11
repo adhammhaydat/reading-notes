@@ -65,6 +65,7 @@
 | Your Mindset | [view page](https://adhammhaydat.github.io/reading-nots/Prep_Your_Mindset) |
 | Read:class-01 | [view page](https://adhammhaydat.github.io/reading-nots/read401-01) |
 | Read:class-02 | [view page](https://adhammhaydat.github.io/reading-nots/read401-02) |
+| Read:class-03 | [view page](https://adhammhaydat.github.io/reading-nots/read401-03) |
 
 ---
 
