@@ -1,10 +1,10 @@
-# reading-nots
+# Reading Notes
 
-## reading-nots about code 101,201$301
+## reading-notes about code 101,201$301
 
 ### My name is Adham Mhaydat, I was born in Jordan, I am 23 years old and i live in Irbid, I studied software engineering at the Al-Hussein Bin Talal University 
 
-## Code 201 - Foundations of Software Development
+## Code 102 - Intro to Software Development
 
 | Pages          | Link                                                                         |
 | -------------- | ---------------------------------------------------------------------------- |
@@ -15,7 +15,8 @@
 | Operator&loops | [operator&loops](https://adhammhaydat.github.io/reading-nots/operator&loops) |
 | CSS            | [CSS](https://adhammhaydat.github.io/reading-nots/css)                       |
 
-## Code 102 - Intro to Software Development
+## Code 201 - Foundations of Software Development
+
 
 | code 201 content | Link                                                               |
 | ---------------- | ------------------------------------------------------------------ |
@@ -63,6 +64,7 @@
 | Practice in the Terminal | [view page](https://adhammhaydat.github.io/reading-nots/Practice_in_the_Terminal) |
 | Your Mindset | [view page](https://adhammhaydat.github.io/reading-nots/Prep_Your_Mindset) |
 | Read:class-01 | [view page](https://adhammhaydat.github.io/reading-nots/read401-01) |
+| Read:class-02 | [view page](https://adhammhaydat.github.io/reading-nots/read401-02) |
 
 ---
 
