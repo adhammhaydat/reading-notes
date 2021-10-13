@@ -66,6 +66,7 @@
 | Read:class-01 | [view page](https://adhammhaydat.github.io/reading-nots/read401-01) |
 | Read:class-02 | [view page](https://adhammhaydat.github.io/reading-nots/read401-02) |
 | Read:class-03 | [view page](https://adhammhaydat.github.io/reading-nots/read401-03) |
+| Read:class-04 | [view page](https://adhammhaydat.github.io/reading-nots/read401-04) |
 
 ---
 
