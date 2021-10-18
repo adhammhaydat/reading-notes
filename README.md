@@ -70,6 +70,7 @@
 | Read:class-05 | [view page](https://adhammhaydat.github.io/reading-notes/read401-05) |
 | Read:class-06 | [view page](https://adhammhaydat.github.io/reading-notes/read401-06) |
 | Read:class-07 | [view page](https://adhammhaydat.github.io/reading-notes/read401-07) |
+| Read:class-08 | [view page](https://adhammhaydat.github.io/reading-notes/read401-08) |
 
 ---
 
