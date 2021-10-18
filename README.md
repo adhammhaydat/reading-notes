@@ -63,12 +63,13 @@
 | ------------------------ | --------------------------------------------------------------------------------- |
 | Practice in the Terminal | [view page](https://adhammhaydat.github.io/reading-nots/Practice_in_the_Terminal) |
 | Your Mindset | [view page](https://adhammhaydat.github.io/reading-nots/Prep_Your_Mindset) |
-| Read:class-01 | [view page](https://adhammhaydat.github.io/reading-nots/read401-01) |
-| Read:class-02 | [view page](https://adhammhaydat.github.io/reading-nots/read401-02) |
-| Read:class-03 | [view page](https://adhammhaydat.github.io/reading-nots/read401-03) |
-| Read:class-04 | [view page](https://adhammhaydat.github.io/reading-nots/read401-04) |
+| Read:class-01 | [view page](https://adhammhaydat.github.io/reading-notes/read401-01) |
+| Read:class-02 | [view page](https://adhammhaydat.github.io/reading-notes/read401-02) |
+| Read:class-03 | [view page](https://adhammhaydat.github.io/reading-notes/read401-03) |
+| Read:class-04 | [view page](https://adhammhaydat.github.io/reading-notes/read401-04) |
 | Read:class-05 | [view page](https://adhammhaydat.github.io/reading-notes/read401-05) |
 | Read:class-06 | [view page](https://adhammhaydat.github.io/reading-notes/read401-06) |
+| Read:class-07 | [view page](https://adhammhaydat.github.io/reading-notes/read401-07) |
 
 ---
 
