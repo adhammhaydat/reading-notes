@@ -76,6 +76,8 @@
 | Read:class-11 | [view page](https://adhammhaydat.github.io/reading-notes/read401-11) |
 | Read:class-12 | [view page](https://adhammhaydat.github.io/reading-notes/read401-12) |
 | Read:class-13 | [view page](https://adhammhaydat.github.io/reading-notes/read401-13) |
+| Read:class-14 | [view page](https://adhammhaydat.github.io/reading-notes/read401-14) |
+
 
 ---
 
