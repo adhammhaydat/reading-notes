@@ -85,6 +85,8 @@
 | Read:class-26 | [view page](https://adhammhaydat.github.io/reading-notes/read401-26) |
 | Read:class-27 | [view page](https://adhammhaydat.github.io/reading-notes/read401-27) |
 | Read:class-28 | [view page](https://adhammhaydat.github.io/reading-notes/read401-28) |
+| Read:class-29 | [view page](https://adhammhaydat.github.io/reading-notes/read401-29) |
+
 
 
 ---
