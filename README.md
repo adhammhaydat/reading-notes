@@ -90,6 +90,7 @@
 | Read:class-31 | [view page](https://adhammhaydat.github.io/reading-notes/read401-31) |
 | Read:class-32 | [view page](https://adhammhaydat.github.io/reading-notes/read401-32) |
 | Read:class-33 | [view page](https://adhammhaydat.github.io/reading-notes/read401-33) |
+| Read:class-34 | [view page](https://adhammhaydat.github.io/reading-notes/read401-34) |
 
 
 
