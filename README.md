@@ -95,6 +95,7 @@
 | Read:class-36 | [view page](https://adhammhaydat.github.io/reading-notes/read401-36) |
 | Read:class-37 | [view page](https://adhammhaydat.github.io/reading-notes/read401-37) |
 | Read:class-38 | [view page](https://adhammhaydat.github.io/reading-notes/read401-38) |
+| Read:class-39 | [view page](https://adhammhaydat.github.io/reading-notes/read401-39) |
 
 
 
