@@ -97,6 +97,8 @@
 | Read:class-38 | [view page](https://adhammhaydat.github.io/reading-notes/read401-38) |
 | Read:class-39 | [view page](https://adhammhaydat.github.io/reading-notes/read401-39) |
 | Read:class-41 | [view page](https://adhammhaydat.github.io/reading-notes/read401-41) |
+| Read:class-42 | [view page](https://adhammhaydat.github.io/reading-notes/read401-42) |
+| Read:Ethics | [view page](https://adhammhaydat.github.io/reading-notes/read401-42-b) |
 
 
 
