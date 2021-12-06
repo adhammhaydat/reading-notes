@@ -99,6 +99,8 @@
 | Read:class-41 | [view page](https://adhammhaydat.github.io/reading-notes/read401-41) |
 | Read:class-42 | [view page](https://adhammhaydat.github.io/reading-notes/read401-42) |
 | Read:Ethics | [view page](https://adhammhaydat.github.io/reading-notes/read401-42-b) |
+| Read: OSS Contributions | [view page](https://adhammhaydat.github.io/reading-notes/read401-43) |
+
 
 
 
